@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Galeria de Filmes</title>
+</head>
+<body>
+    <header>
+        <h1>Galeria de Filmes</h1>
+        <h3>Conteúdo favorito - José Vitor</h3>
+    </header>
+    <main>
+        <section>
+            <img src="Interstellar_Filme.png" >
+            <p>
+                Saiba mais sobre o filme:
+                <a href="https://pt.wikipedia.org/wiki/Interstellar" target="_blank">Interstellar na Wikipedia</a>
+            </p>
+        </section>
+
+        <section>
+            <img src="Harry_Potter_Pedra_Filosofal_2001.jpg">
+            <p>
+                Saiba mais sobre o filme:
+                <a href="https://pt.wikipedia.org/wiki/Harry_Potter_e_a_Pedra_Filosofal_(filme)" target="_blank">Harry Potter na Wikipedia</a>
+            </p>
+        </section>
+
+        <section>
+            <img src="Man_of_Steel(filme).jpg">
+            <p>
+                Saiba mais sobre o filmes:
+                <a href="https://pt.wikipedia.org/wiki/Man_of_Steel_(filme)" target="_blank"> Homem de Aço na Wikipedia </a>
+            </p>
+        </section>
+
+        <section>
+            <img src="Hacksaw_Ridge.png">
+            <p>
+                Saiba mais sobre o filmes: <a href="https://pt.wikipedia.org/wiki/Hacksaw_Ridge" target="_blank"> Até o ultimo homem Wikipedia</a>
+            </p>
+        </section>
+        <section>
+            <img src="WALL-E.jpg">
+            <p>
+                Saiba mais sobre o filmes: <a href="https://pt.wikipedia.org/wiki/WALL-E" target="_blank"> WALL-E Wikipedia</a>
+            </p>
+        </section>
+        <section>
+            <img src="The_Chronicles_of_Narnia_-_The_Lion,_the_Witch_and_the_Wardrobe.jpg">
+            <p>
+                Saiba mais sobre o filme: <a href="https://pt.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe" target="_blank"> Narnia Wikipedia</a>
+            </p>
+        </section>
+        <section>
+            <img src="Ringstrilogyposter.jpg">
+            <p>
+                Saiba mais sobre o filme: <a href="https://pt.wikipedia.org/wiki/O_Senhor_dos_An%C3%A9is_(s%C3%A9rie_de_filmes)" target="_blank"> O_Senhor_dos_Aneis Wikipedia</a>
+            </p>
+        </section>
+        <section>
+            <img src="Thor_Ragnarok_poster.jpg">
+            <p>
+                Saiba mais sobre o filme: <a href="https://pt.wikipedia.org/wiki/Thor:_Ragnarok" target="_blank">Thor Ragnarok wikipedia</a>
+            </p>
+        </section>
+        <section>
+            <img src="Spide-Man_Poster.jpg">
+            <p>
+                Saiba mais sobre o filme: <a href="https://pt.wikipedia.org/wiki/Homem-Aranha_(filme)" target="_blank"> Homem aranha wikipedia "o de verdade" </a>
+            </p>
+        </section>
+        <h2>
+            <a href="https://pt.wikipedia.org/wiki/Lista_dos_melhores_filmes_de_todos_os_tempos_segundo_a_Bravo" target="_blank">Ver mais filmes</a>
+        </h2>
+    </main>
+</body>
+</html>
