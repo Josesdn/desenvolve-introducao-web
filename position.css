@@ -1,3 +1,24 @@
+a{
+    color: deeppink;
+}
+a:hover{
+    color: rgba(255, 20, 145, 0.432);
+}
+.main p:first-of-type:first-letter{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+}
+.design-selection li {
+    border-top: #412973 solid 1px;
+    padding-top: 5px;
+    
+}
+.design-selection li:last-of-type{
+    border-bottom: #412973 solid 1px;
+    padding-bottom: 5px;
+}
+
 .suppoting footer {
     display: flex;
     justify-content: space-evenly;
@@ -40,7 +61,7 @@
 }
 #design-selection {
     position: absolute;
-    top: 520px;
+    top: 440px;
     left:62%;
     padding-right: 1%;
     padding-left: 1%;
